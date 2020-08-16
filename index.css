@@ -65,6 +65,8 @@
 }
 .btns:hover {
     border: 1px white solid;
+    border-radius: 3px;
+  
 }
 
 /*-------------------------nav-search----------------------*/
